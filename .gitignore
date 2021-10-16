@@ -1,3 +1,9 @@
+#photoshop
+*.psd
+
+# Text
+*.txt
+
 # Logs
 logs
 *.log
