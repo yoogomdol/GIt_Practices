@@ -8,7 +8,7 @@
 * git commit
 * git branch
 
-## CLI 명령어
+## CLI(Command Line Intrerface) 명령어
 * pwd - 현재 디렉토리 확인
 * cd - 디렉토리 이동
 * ls - 디렉토리 및 파일 목록 출력
